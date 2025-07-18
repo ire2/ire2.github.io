@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-I’m **Ignacio Estrada**, a CS + IS dual-degree student at Cornell University passionate about building **production-ready software systems** that are both **highly scalable** and **user-focused**.
+I’m **Ignacio Estrada**, a CS + IS dual-degree graduate from Cornell University passionate about building **production-ready software systems** that are both **highly scalable** and **user-focused**.
 
 My experience ranges from **backend systems and optimization** to **interactive app design** and **autonomous robotics**. I thrive at the intersection of **system performance**, **intelligent applications**, and **human-centered design**.
 
