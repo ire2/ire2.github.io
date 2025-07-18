@@ -1,0 +1,15 @@
+title: Ignacio Estrada
+description: Software Engineer | HCI & APP Debelopment | Open Source Contributor
+author:
+  name: Ignacio Estrada
+  email: ignacioec31@gmail.com
+theme: minima
+
+# Menu
+header_pages:
+  - about.md
+  - projects.md
+
+#Socials
+github_username: ire2
+linkedin: https://www.linkedin.com/in/ignacio-ec
